@@ -1,0 +1,15 @@
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\bin\Debug\net5.0\YoungAdessiChallengeProject.Entities.deps.json
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\bin\Debug\net5.0\YoungAdessiChallengeProject.Entities.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\bin\Debug\net5.0\ref\YoungAdessiChallengeProject.Entities.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\bin\Debug\net5.0\YoungAdessiChallengeProject.Entities.pdb
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\bin\Debug\net5.0\YoungAdessiChallengeProject.Shared.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\bin\Debug\net5.0\YoungAdessiChallengeProject.Shared.pdb
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\YoungAdessiChallengeProject.Entities.csproj.AssemblyReference.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\YoungAdessiChallengeProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\YoungAdessiChallengeProject.Entities.AssemblyInfoInputs.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\YoungAdessiChallengeProject.Entities.AssemblyInfo.cs
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\YoungAdessiChallengeProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\YoungAdessiChallengeProject.Entities.csproj.CopyComplete
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\YoungAdessiChallengeProject.Entities.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\ref\YoungAdessiChallengeProject.Entities.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Entities\obj\Debug\net5.0\YoungAdessiChallengeProject.Entities.pdb

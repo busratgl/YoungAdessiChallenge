@@ -1,0 +1,12 @@
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\bin\Debug\net5.0\YoungAdessiChallengeProject.Shared.deps.json
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\bin\Debug\net5.0\YoungAdessiChallengeProject.Shared.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\bin\Debug\net5.0\ref\YoungAdessiChallengeProject.Shared.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\bin\Debug\net5.0\YoungAdessiChallengeProject.Shared.pdb
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\obj\Debug\net5.0\YoungAdessiChallengeProject.Shared.csproj.AssemblyReference.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\obj\Debug\net5.0\YoungAdessiChallengeProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\obj\Debug\net5.0\YoungAdessiChallengeProject.Shared.AssemblyInfoInputs.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\obj\Debug\net5.0\YoungAdessiChallengeProject.Shared.AssemblyInfo.cs
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\obj\Debug\net5.0\YoungAdessiChallengeProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\obj\Debug\net5.0\YoungAdessiChallengeProject.Shared.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\obj\Debug\net5.0\ref\YoungAdessiChallengeProject.Shared.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Shared\obj\Debug\net5.0\YoungAdessiChallengeProject.Shared.pdb

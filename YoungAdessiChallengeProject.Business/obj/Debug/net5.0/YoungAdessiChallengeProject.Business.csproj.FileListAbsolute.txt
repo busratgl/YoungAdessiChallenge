@@ -1,0 +1,17 @@
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\YoungAdessiChallengeProject.Business.csproj.AssemblyReference.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\YoungAdessiChallengeProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\YoungAdessiChallengeProject.Business.AssemblyInfoInputs.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\YoungAdessiChallengeProject.Business.AssemblyInfo.cs
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\YoungAdessiChallengeProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\bin\Debug\net5.0\YoungAdessiChallengeProject.Business.deps.json
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\bin\Debug\net5.0\YoungAdessiChallengeProject.Business.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\bin\Debug\net5.0\ref\YoungAdessiChallengeProject.Business.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\bin\Debug\net5.0\YoungAdessiChallengeProject.Business.pdb
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\bin\Debug\net5.0\YoungAdessiChallengeProject.Entities.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\bin\Debug\net5.0\YoungAdessiChallengeProject.Shared.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\bin\Debug\net5.0\YoungAdessiChallengeProject.Entities.pdb
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\bin\Debug\net5.0\YoungAdessiChallengeProject.Shared.pdb
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\YoungAdessiChallengeProject.Business.csproj.CopyComplete
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\YoungAdessiChallengeProject.Business.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\ref\YoungAdessiChallengeProject.Business.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.Business\obj\Debug\net5.0\YoungAdessiChallengeProject.Business.pdb

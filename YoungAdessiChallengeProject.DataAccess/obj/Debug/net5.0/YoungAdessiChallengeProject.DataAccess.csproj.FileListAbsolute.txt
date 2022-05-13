@@ -1,0 +1,12 @@
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\bin\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.deps.json
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\bin\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\bin\Debug\net5.0\ref\YoungAdessiChallengeProject.DataAccess.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\bin\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.pdb
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\obj\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\obj\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\obj\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\obj\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.AssemblyInfo.cs
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\obj\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\obj\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\obj\Debug\net5.0\ref\YoungAdessiChallengeProject.DataAccess.dll
+C:\Users\busra\RiderProjects\YoungAdessiChallengeProject\YoungAdessiChallengeProject.DataAccess\obj\Debug\net5.0\YoungAdessiChallengeProject.DataAccess.pdb
